@@ -1,7 +1,7 @@
 # OrangeHRM - Robot Framework
 
 ## Objetivo
-Este projeto tem como objetivo realizar o teste de CRUD de usuário na plataforma OrangeHRM (opensource-demo.orangehrmlive.com)
+Este projeto tem como objetivo realizar o teste de CRUD de usuário na plataforma OrangeHRM (opensource-demo.orangehrmlive.com)  
 Vale lembrar caso o teste 00-login falhe, aguarde alguns minutos para a plataforma resetar os usuários
 
 ## Dependências
